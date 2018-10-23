@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".SanDiegoBay">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_position="left"
+        android:layout_gravity="fill_vertical|center_horizontal"
+        android:text="@string/Welcome_To_The_San_Diego_Zoo"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/oldtown"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/miwok_text_view"
+        android:layout_gravity="bottom"
+        android:layout_height="wrap_content" />
+    <ListView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/list"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</FrameLayout>

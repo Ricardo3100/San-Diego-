@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group >
+
+        <item
+            android:id="@+id/PetoPark"
+            android:src="@drawable/petcopark"
+            android:title="@string/Welcome_To_Petco_Park" />
+
+        <item
+            android:id="@+id/SanDiegoZoo"
+            android:icon="@drawable/sdzoo"
+            android:title="@string/TheSanDiegoZoo" />
+        <item
+            android:id="@+id/SanDiegoBay"
+            android:icon="@drawable/sdzoo"
+            android:title="@string/San_Diego_Bay" />
+        <item
+            android:id="@+id/oldtown"
+            android:src="@drawable/oldtown"
+            android:title="@string/Welcome_To_Old_Town" />
+
+    </group>
+</menu>

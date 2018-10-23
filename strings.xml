@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">drawer</string>
+    <string name="OldTown">Welcome to Old Town</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hi"> Enjoy your stay</string>
+    <string name="SanDiegoBay">San Diego Bay</string>
+    <string name="TheSanDiegoZoo">The San Diego Zoo</string>
+    <string name="Welcometothezoo">Welcome to the San Diego Zoo</string>
+
+    <string name="Welcome_To_Petco_Park">Welcome to Petco Park</string>
+    <string name="San_Diego_Bay">San Diego Bay</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Welcome_to_San_Diego">Welcome To San Diego</string>
+    <string name="Welcome_To_Old_Town">Welcome To Old Town</string>
+    <string name="testfrag">test</string>
+    <string name="Welcome_To_San_Diego_Bay">Welcome To San Diego Bay</string>
+    <string name="Welcome_To_The_San_Diego_Zoo">Welcome to the San Diego Zoo</string>
+
+</resources>
